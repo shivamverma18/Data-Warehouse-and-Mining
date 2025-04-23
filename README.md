@@ -1,8 +1,3 @@
-# Data-Warehouse and Mining
-
-Certainly! Based on your friend's README.md file, here's a customized version for your own Data Warehousing and Mining project. This version maintains a similar structure but uses distinct wording and organization to ensure originality.
-
----
 
 # 📊 Data Warehousing and Mining – Practical Implementations
 
