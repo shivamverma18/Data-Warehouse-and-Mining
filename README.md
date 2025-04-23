@@ -12,15 +12,15 @@ This repository contains implementations of key data mining algorithms and data 
 
 ## 📁 Repository Contents
 
-- 📌[Apriori Algorithm]:Demonstrates the Apriori algorithm for discovering association rules.
-- 🔄 [Data Flow Transformation]: Covers ETL processes and data transformation techniques.
-- 🌳 [Decision Tree Classifier.ipynb]: Implements a decision tree for classification tasks.
-- 📊 [Exploratory Data Analysis.ipynb]: Performs EDA including data visualization and statistical analysis.
-- 🧠 [K-Means Clustering.ipynb]: Applies K-Means algorithm for clustering data into groups.
-- 👥 [KNN Classifier.ipynb]: Utilizes K-Nearest Neighbors for classification problems.
-- 📈 [Linear Regression Model.ipynb]: Builds a linear regression model for predictive analysis.
-- 📧 [Naive Bayes Classifier.ipynb]: Implements Naive Bayes algorithm for classification tasks.
-- 🧩 [Missing Values Handling.ipynb]: Explores methods to handle missing data in datasets.
+- 📌**Apriori Algorithm:** Demonstrates the Apriori algorithm for discovering association rules.
+- 🔄**Data Flow Transformation:** Covers ETL processes and data transformation techniques.
+- 🌳 **Decision Tree Classifier:** Implements a decision tree for classification tasks.
+- 📊 **Exploratory Data Analysis:** Performs EDA including data visualization and statistical analysis.
+- 🧠 **K-Means Clustering:** Applies K-Means algorithm for clustering data into groups.
+- 👥 **KNN Classifier:** Utilizes K-Nearest Neighbors for classification problems.
+- 📈 **Linear Regression Model:** Builds a linear regression model for predictive analysis.
+- 📧 **Naive Bayes Classifier:** Implements Naive Bayes algorithm for classification tasks.
+- 🧩 **Missing Values Handling:** Explores methods to handle missing data in datasets.
 
 
 ---
