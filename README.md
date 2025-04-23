@@ -12,7 +12,7 @@ This repository contains implementations of key data mining algorithms and data 
 
 ## 📁 Repository Contents
 
-- 📌 [Apriori Algorithm.ipynb]([https://github.com/ShivamDev/data-warehousing-mining/blob/main/apriori_algorithm.ipynb](https://github.com/shivamverma18/Data-Warehouse-and-Mining/blob/4a7b5bb7d683fe84bae442b227c04d44d4d02573/Apriori%20Algorithm.ipynb)): Demonstrates the Apriori algorithm for discovering association rules.
+- 📌 [Apriori Algorithm.ipynb]([https://github.com/ShivamDev/data-warehousing-mining/blob/main/apriori_algorithm.ipynb](https://github.com/shivamverma18/Data-Warehouse-and-Mining/blob/4a7b5bb7d683fe84bae442b227c04d44d4d02573/Apriori%20Algorithm.ipynb): Demonstrates the Apriori algorithm for discovering association rules.
 - 🔄 [Data Flow Transformation.ipynb](https://github.com/ShivamDev/data-warehousing-mining/blob/main/data_flow_transformation.ipynb): Covers ETL processes and data transformation techniques.
 - 🌳 [Decision Tree Classifier.ipynb](https://github.com/ShivamDev/data-warehousing-mining/blob/main/decision_tree_classifier.ipynb): Implements a decision tree for classification tasks.
 - 📊 [Exploratory Data Analysis.ipynb](https://github.com/ShivamDev/data-warehousing-mining/blob/main/exploratory_data_analysis.ipynb): Performs EDA including data visualization and statistical analysis.
