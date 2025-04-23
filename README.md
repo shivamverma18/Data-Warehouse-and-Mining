@@ -48,8 +48,19 @@ This repository contains implementations of key data mining algorithms and data 
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Required Libraries
 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/data-warehousing-mining.git
+
+2. **Navigate to the project directory:**
+   ```bash
+   cd data-warehousing-mining
+
+3. **Install the required libraries:**
+   ```bash
+   pip install -r requirements.txt
+
+  
+   
