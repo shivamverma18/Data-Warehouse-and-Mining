@@ -12,32 +12,16 @@ This repository contains implementations of key data mining algorithms and data 
 
 ## 📁 Repository Contents
 
-- **`apriori_algorithm.ipynb`**  
-  Demonstrates the Apriori algorithm for discovering association rules.
+- 📌 [Apriori Algorithm.ipynb](https://github.com/ShivamDev/data-warehousing-mining/blob/main/apriori_algorithm.ipynb): Demonstrates the Apriori algorithm for discovering association rules.
+- 🔄 [Data Flow Transformation.ipynb](https://github.com/ShivamDev/data-warehousing-mining/blob/main/data_flow_transformation.ipynb): Covers ETL processes and data transformation techniques.
+- 🌳 [Decision Tree Classifier.ipynb](https://github.com/ShivamDev/data-warehousing-mining/blob/main/decision_tree_classifier.ipynb): Implements a decision tree for classification tasks.
+- 📊 [Exploratory Data Analysis.ipynb](https://github.com/ShivamDev/data-warehousing-mining/blob/main/exploratory_data_analysis.ipynb): Performs EDA including data visualization and statistical analysis.
+- 🧠 [K-Means Clustering.ipynb](https://github.com/ShivamDev/data-warehousing-mining/blob/main/k_means_clustering.ipynb): Applies K-Means algorithm for clustering data into groups.
+- 👥 [KNN Classifier.ipynb](https://github.com/ShivamDev/data-warehousing-mining/blob/main/knn_classifier.ipynb): Utilizes K-Nearest Neighbors for classification problems.
+- 📈 [Linear Regression Model.ipynb](https://github.com/ShivamDev/data-warehousing-mining/blob/main/linear_regression_model.ipynb): Builds a linear regression model for predictive analysis.
+- 📧 [Naive Bayes Classifier.ipynb](https://github.com/ShivamDev/data-warehousing-mining/blob/main/naive_bayes_classifier.ipynb): Implements Naive Bayes algorithm for classification tasks.
+- 🧩 [Missing Values Handling.ipynb](https://github.com/ShivamDev/data-warehousing-mining/blob/main/missing_values_handling.ipynb): Explores methods to handle missing data in datasets.
 
-- **`data_flow_transformation.ipynb`**  
-  Covers ETL processes and data transformation techniques.
-
-- **`decision_tree_classifier.ipynb`**  
-  Implements a decision tree for classification tasks.
-
-- **`exploratory_data_analysis.ipynb`**  
-  Performs EDA including data visualization and statistical analysis.
-
-- **`k_means_clustering.ipynb`**  
-  Applies K-Means algorithm for clustering data into groups.
-
-- **`knn_classifier.ipynb`**  
-  Utilizes K-Nearest Neighbors for classification problems.
-
-- **`linear_regression_model.ipynb`**  
-  Builds a linear regression model for predictive analysis.
-
-- **`naive_bayes_classifier.ipynb`**  
-  Implements Naive Bayes algorithm for classification tasks.
-
-- **`missing_values_handling.ipynb`**  
-  Explores methods to handle missing data in datasets.
 
 ---
 
