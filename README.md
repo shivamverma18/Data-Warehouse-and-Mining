@@ -61,6 +61,3 @@ This repository contains implementations of key data mining algorithms and data 
 3. **Install the required libraries:**
    ```bash
    pip install -r requirements.txt
-
-  
-   
