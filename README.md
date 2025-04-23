@@ -12,17 +12,32 @@ This repository contains implementations of key data mining algorithms and data 
 
 ## 📁 Repository Contents
 
-| File Name                          | Description                                                                 |
-|------------------------------------|-----------------------------------------------------------------------------|
-| `apriori_algorithm.ipynb`          | Demonstrates the Apriori algorithm for discovering association rules.       |
-| `data_flow_transformation.ipynb`   | Covers ETL processes and data transformation techniques.                    |
-| `decision_tree_classifier.ipynb`   | Implements a decision tree for classification tasks.                        |
-| `exploratory_data_analysis.ipynb`  | Performs EDA including data visualization and statistical analysis.         |
-| `k_means_clustering.ipynb`         | Applies K-Means algorithm for clustering data into groups.                  |
-| `knn_classifier.ipynb`             | Utilizes K-Nearest Neighbors for classification problems.                   |
-| `linear_regression_model.ipynb`    | Builds a linear regression model for predictive analysis.                   |
-| `naive_bayes_classifier.ipynb`     | Implements Naive Bayes algorithm for classification tasks.                  |
-| `missing_values_handling.ipynb`    | Explores methods to handle missing data in datasets.                        |
+- **`apriori_algorithm.ipynb`**  
+  Demonstrates the Apriori algorithm for discovering association rules.
+
+- **`data_flow_transformation.ipynb`**  
+  Covers ETL processes and data transformation techniques.
+
+- **`decision_tree_classifier.ipynb`**  
+  Implements a decision tree for classification tasks.
+
+- **`exploratory_data_analysis.ipynb`**  
+  Performs EDA including data visualization and statistical analysis.
+
+- **`k_means_clustering.ipynb`**  
+  Applies K-Means algorithm for clustering data into groups.
+
+- **`knn_classifier.ipynb`**  
+  Utilizes K-Nearest Neighbors for classification problems.
+
+- **`linear_regression_model.ipynb`**  
+  Builds a linear regression model for predictive analysis.
+
+- **`naive_bayes_classifier.ipynb`**  
+  Implements Naive Bayes algorithm for classification tasks.
+
+- **`missing_values_handling.ipynb`**  
+  Explores methods to handle missing data in datasets.
 
 ---
 
